@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Herandi. Started my journey self-teaching Python and recently joined a Data Engineering Bootcamp. My passion is using code to analyze and draw insights from data. Looking forward to building data projects soon, stay tuned for more!
+
 - 🌱 I’m currently learning python 🐍
 - 🔭 I’m currently working through a Data Engineering Bootcamp 👩🏽‍💻
 - 🤝 Connect with me: <a href="https://www.linkedin.com/in/herandiplancarte/">
