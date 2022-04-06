@@ -4,6 +4,6 @@ I am Herandi. Started my journey self-teaching Python and recently joined a Data
 
 - 🌱 I’m currently learning python 🐍
 - 🔭 I’m currently working through a Data Engineering Bootcamp 👩🏽‍💻
-- 🤝 Connect with me: <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/herandiplancarte/">
+- 🤝 Connect with me: <a href="https://www.linkedin.com/in/herandiplancarte/">
   <img align="middle" alt="Herandi Linkdein" width="21px" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />
 </a>
